@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>48238716-5e3a-4241-b55c-cb4430f19913</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Tipos de Variables.py</StartupFile>
+    <StartupFile>Estructuras de Control.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
