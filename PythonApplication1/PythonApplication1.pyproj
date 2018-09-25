@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>48238716-5e3a-4241-b55c-cb4430f19913</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Estructuras de Control.py</StartupFile>
+    <StartupFile>Funciones.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Estructuras de Control.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Estructuras Iterativas.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Funciones.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Tipos de Variables.py" />
